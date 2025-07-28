@@ -21,6 +21,7 @@ from pathlib import Path
 from collections import defaultdict, Counter
 import fitz  # PyMuPDF
 from typing import List, Dict, Tuple, Optional
+
 def detect_language_simple(text: str) -> str:
     """Simple language detection based on character patterns."""
     text = text.strip()

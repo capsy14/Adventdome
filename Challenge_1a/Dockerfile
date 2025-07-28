@@ -22,4 +22,4 @@ COPY process_pdfs_production.py .
 RUN mkdir -p /app/input /app/output
 
 # Run the production script
-CMD ["python", "process_pdfs_production.py"] 
+CMD ["python", "process_pdfs_production.py"]
