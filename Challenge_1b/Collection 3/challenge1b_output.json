@@ -1,77 +1,77 @@
 {
     "metadata": {
         "input_documents": [
-            "Breakfast Ideas.pdf",
+            "Lunch Ideas.pdf",
             "Dinner Ideas - Mains_1.pdf",
             "Dinner Ideas - Mains_2.pdf",
             "Dinner Ideas - Mains_3.pdf",
+            "Breakfast Ideas.pdf",
             "Dinner Ideas - Sides_1.pdf",
-            "Dinner Ideas - Sides_2.pdf",
             "Dinner Ideas - Sides_3.pdf",
-            "Dinner Ideas - Sides_4.pdf",
-            "Lunch Ideas.pdf"
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_4.pdf"
         ],
         "persona": "Food Contractor",
         "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
-        "processing_timestamp": "2025-07-10T15:40:14.642503"
+        "processing_timestamp": "2025-07-20T17:07:52.457437"
     },
     "extracted_sections": [
         {
-            "document": "Dinner Ideas - Sides_2.pdf",
-            "section_title": "Falafel",
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Msemen",
             "importance_rank": 1,
-            "page_number": 7
+            "page_number": 12
         },
         {
             "document": "Dinner Ideas - Sides_3.pdf",
-            "section_title": "Ratatouille",
+            "section_title": "Hummus",
             "importance_rank": 2,
-            "page_number": 8
-        },
-        {
-            "document": "Dinner Ideas - Sides_1.pdf",
-            "section_title": "Baba Ganoush",
-            "importance_rank": 3,
-            "page_number": 4
+            "page_number": 2
         },
         {
             "document": "Lunch Ideas.pdf",
-            "section_title": "Veggie Sushi Rolls",
-            "importance_rank": 4,
-            "page_number": 11
+            "section_title": "Chicken Caesar Wrap",
+            "importance_rank": 3,
+            "page_number": 2
         },
         {
-            "document": "Dinner Ideas - Mains_2.pdf",
-            "section_title": "Vegetable Lasagna",
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Greek Yogurt Parfait",
+            "importance_rank": 4,
+            "page_number": 3
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Chicken and Veggie Stir-Fry",
             "importance_rank": 5,
-            "page_number": 9
+            "page_number": 7
         }
     ],
     "subsection_analysis": [
         {
-            "document": "Dinner Ideas - Sides_2.pdf",
-            "refined_text": "Escalivada Ingredients: 2 eggplants, 2 bell peppers, 2 tomatoes, 1 small onion, 1/4 cup olive oil, 1 teaspoon salt. Instructions: Preheat oven to 400°F (200°C). Roast eggplants, bell peppers, tomatoes, and onion until tender. Peel and slice vegetables. Arrange on a plate and drizzle with olive oil. Sprinkle with salt and serve warm or at room temperature.",
-            "page_number": 7
-        },
-        {
-            "document": "Dinner Ideas - Sides_2.pdf",
-            "refined_text": "Falafel Ingredients: 1 can chickpeas, 1 small onion, 2 cloves garlic, 1/4 cup parsley, 1 teaspoon cumin, 1 teaspoon coriander, 1 teaspoon salt, 1/4 cup flour, oil for frying. Instructions: Drain and rinse chickpeas. Blend chickpeas, diced onion, minced garlic, chopped parsley, cumin, coriander, and salt in a food processor. Add flour and mix until combined. Form mixture into balls and fry in hot oil until golden.",
-            "page_number": 7
-        },
-        {
-            "document": "Dinner Ideas - Sides_1.pdf",
-            "refined_text": "Baba Ganoush Ingredients: 2 eggplants, 1/4 cup tahini, 1/4 cup lemon juice, 2 cloves garlic, 1/4 cup olive oil, 1 teaspoon salt. Instructions: Roast eggplants until soft, then peel and mash. Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food processor. Slowly add olive oil while blending until smooth. Serve with a drizzle of olive oil.",
-            "page_number": 4
-        },
-        {
-            "document": "Lunch Ideas.pdf",
-            "refined_text": "Veggie Sushi Rolls Ingredients: 1 cup cooked sushi rice, 1/2 cucumber (julienned), 1/2 avocado (sliced), 1/4 cup carrot (julienned), 2 sheets nori (seaweed), soy sauce for dipping. Instructions: Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. Roll the nori tightly using the bamboo mat. Slice into bite-sized pieces and serve with soy sauce.",
-            "page_number": 11
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Blend peppers, walnuts, breadcrumbs, minced garlic, olive oil, pomegranate \nmolasses, cumin, and salt in a food processor until smooth. Msemen \n \nIngredients: \no 2 cups flour \no 1 cup semolina \no 1 teaspoon salt \no 1/4 cup olive oil \no 1 cup water \no 1/4 cup butter \n \nInstructions: \no Mix flour, semolina, and salt in a bowl. Muhammara \n \nIngredients: \no 2 red bell peppers \no 1/2 cup walnuts \no 1/4 cup breadcrumbs \no 2 cloves garlic \no 1/4 cup olive oil \no 1 tablespoon pomegranate molasses \no 1 teaspoon cumin \no 1 teaspoon salt \n \nInstructions: \no Roast bell peppers until charred, then peel and seed. Mutabal \n \nIngredients: \no 2 eggplants \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Roast eggplants until soft, then peel and mash. o Divide dough into balls and roll out into thin circles.",
+            "page_number": 12
         },
         {
             "document": "Dinner Ideas - Sides_3.pdf",
-            "refined_text": "Macaroni and Cheese Ingredients: 2 cups elbow macaroni, 2 cups milk, 2 tablespoons butter, 2 tablespoons flour, 2 cups shredded cheddar cheese, 1 teaspoon salt, 1/2 teaspoon pepper. Instructions: Cook macaroni according to package instructions, then drain. Melt butter in a saucepan, stir in flour to make a roux. Gradually add milk, stirring constantly until thickened. Add cheese, salt, and pepper, stir until melted. Combine cheese sauce with macaroni. Serve warm.",
-            "page_number": 8
+            "refined_text": "o Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor. Hummus \n \nIngredients: \no 1 can chickpeas \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Drain and rinse chickpeas. Japchae \n \nIngredients: \no 8 ounces sweet potato noodles \no 1/2 pound beef \no 1 small onion \no 1 carrot \no 1 bell pepper \no 1 cup spinach \no 2 tablespoons soy sauce \no 1 tablespoon sesame oil \no 1 tablespoon sugar \no 1 tablespoon sesame seeds \n \nInstructions: \no Cook noodles according to package instructions, then drain. Jerk Vegetables \n \nIngredients: \no 1 cup broccoli \no 1 cup bell peppers \no 1 cup zucchini \no 1 small onion \no 2 cloves garlic \no 2 tablespoons jerk seasoning. o Sauté sliced beef, diced onion, julienned carrot, and bell pepper in sesame oil \nuntil cooked.",
+            "page_number": 2
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Chicken Caesar Wrap \nIngredients: \n• \n1 whole wheat tortilla \n• \n1 cup cooked chicken breast, sliced \n• \n1 cup romaine lettuce, chopped \n• \n2 tablespoons Caesar dressing \n• \n2 tablespoons grated Parmesan cheese \n• \nOptional: croutons for extra crunch \nInstructions: \n• \nLay the tortilla flat and spread the Caesar dressing evenly. Quinoa Salad \nIngredients: \n• \n1 cup cooked quinoa \n• \n1/2 cup cherry tomatoes, halved \n• \n1/2 cucumber, diced \n• \n1/4 cup red onion, finely chopped \n• \n1/4 cup feta cheese, crumbled \n• \n2 tablespoons olive oil \n• \n1 tablespoon lemon juice \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. Turkey and Avocado Sandwich \nIngredients: \n• \n2 slices whole grain bread \n• \n4 slices turkey breast \n• \n1/2 avocado, sliced \n• \n1/2 cup spinach leaves \n• \n1 tablespoon mustard or mayo \nInstructions: \n• \nSpread mustard or mayo on one slice of bread. • \nTop with the second slice of bread and cut in half. • \nRoll up the tortilla tightly and slice in half.",
+            "page_number": 2
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Greek Yogurt Parfait \nIngredients: \n• \n1 cup Greek yogurt \n• \n1/2 cup granola \n• \n1/2 cup mixed berries (strawberries, blueberries, raspberries) \n• \n1 tablespoon honey \nInstructions: \n• \nIn a bowl or jar, layer the Greek yogurt, granola, and mixed berries. Hummus and Veggie Pita \nIngredients: \n• \n1 whole wheat pita bread \n• \n1/2 cup hummus \n• \n1/2 cup cucumber, sliced \n• \n1/2 cup bell pepper, sliced \n• \n1/4 cup shredded carrots \n• \n1/4 cup baby spinach \nInstructions: \n• \nCut the pita bread in half to create pockets. Tuna Salad \nIngredients: \n• \n1 can tuna, drained \n• \n1/4 cup mayonnaise \n• \n1 tablespoon Dijon mustard \n• \n1 celery stalk, diced \n• \n1/4 cup red onion, finely chopped \n• \nSalt and pepper to taste \n• \nLettuce leaves or whole grain bread for serving \nInstructions: \n• \nIn a bowl, combine the tuna, mayonnaise, Dijon mustard, celery, and red onion. • \nFill with cucumber, bell pepper, carrots, and spinach. • \nRepeat the layers if desired.",
+            "page_number": 3
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Chicken and Veggie Stir-Fry \nIngredients: \n• \n1 cup cooked chicken breast, sliced \n• \n1/2 cup bell pepper, sliced \n• \n1/2 cup broccoli florets \n• \n1/4 cup snap peas \n• \n2 tablespoons soy sauce \n• \n1 tablespoon olive oil \n• \n1 teaspoon sesame oil \n• \nCooked rice for serving \nInstructions: \n• \nIn a large skillet, heat olive oil over medium heat. Shrimp and Avocado Salad \nIngredients: \n• \n1 cup cooked shrimp, peeled and deveined \n• \n1/2 avocado, diced \n• \n1/4 cup cherry tomatoes, halved \n• \n1/4 cup red onion, finely chopped \n• \n2 tablespoons olive oil \n• \n1 tablespoon lemon juice \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a bowl, combine the shrimp, avocado, tomatoes, and red onion. Black Bean and Corn Salad \nIngredients: \n• \n1 can black beans, drained and rinsed \n• \n1 cup corn kernels (fresh or canned) \n• \n1/2 cup cherry tomatoes, halved. • \nAdd bell pepper, broccoli, and snap peas, and stir-fry until tender. • \nAdd the cooked chicken and soy sauce, and stir to combine.",
+            "page_number": 7
         }
     ]
 }
